@@ -715,6 +715,9 @@ span.rpwwt-post-title:hover {
 /*--------------------------------------------------------------
 ## Custom CSS
 --------------------------------------------------------------*/
+/*.et_pb_section.et_pb_section_0.et_pb_with_background.et_pb_section_parallax.et_section_regular.et_section_transparent {
+    margin-top: -78px !important;
+}*/
 /*--------------------------------------------------------------
 ## Posts and pages
 --------------------------------------------------------------*/
@@ -920,10 +923,14 @@ textarea {
 article.type-post {
   margin: 0 20% 0 20%;
 }
+.post-thumbnail {
+  display: none;
+}
 /* -------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
 header .site-branding .site-title {
+  display: none;
   text-align: center;
 }
 header .site-branding .site-title a {
@@ -938,9 +945,18 @@ header .site-branding .site-description {
     display: none;
   }
 }
+header .site-branding .custom-logo-link {
+  display: none;
+}
+.entry-header {
+  display: none;
+}
 /*--------------------------------------------------------------
 # Navigation
 --------------------------------------------------------------*/
+footer.entry-footer {
+  display: none;
+}
 .site-info.foot-text-color {
   border-top: #545454 solid 2px;
   padding: 10px;
