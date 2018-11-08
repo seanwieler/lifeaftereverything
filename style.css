@@ -718,6 +718,31 @@ span.rpwwt-post-title:hover {
 .et_pb_slide_content {
   display: none;
 }
+i.fa.fa-facebook.fa-4x.fa-border,
+i.fa.fa-instagram.fa-4x.fa-border,
+i.fa.fa-youtube.fa-4x.fa-border,
+i.fa.fa-twitter.fa-4x.fa-border,
+i.fa.fa-pinterest-p.fa-4x.fa-border {
+  color: #fff;
+}
+i.fa.fa-facebook.fa-4x.fa-border:hover,
+i.fa.fa-instagram.fa-4x.fa-border:hover,
+i.fa.fa-youtube.fa-4x.fa-border:hover,
+i.fa.fa-twitter.fa-4x.fa-border:hover,
+i.fa.fa-pinterest-p.fa-4x.fa-border:hover {
+  color: #ffcc00;
+}
+aside#recent-posts-2 {
+  width: 100%;
+  color: #ffffff;
+}
+aside#recent-posts-2 li:hover {
+  color: #ffcc00;
+}
+aside#recent-posts-2 h6.widget-title {
+  font-size: 18px !important;
+  color: #ffcc00 !important;
+}
 /*--------------------------------------------------------------
 ## Posts and pages
 --------------------------------------------------------------*/
@@ -957,9 +982,22 @@ header .site-branding .custom-logo-link {
 footer.entry-footer {
   display: none;
 }
+.site-info {
+  padding: 20px 0 20px 0;
+  background-color: #000;
+}
 .site-info.foot-text-color {
   border-top: #545454 solid 2px;
   padding: 10px;
+}
+.site-info {
+  color: #ffffff;
+}
+.site-info a {
+  color: #8e8e8e;
+}
+.site-info a:hover {
+  color: #ffcc00;
 }
 /*--------------------------------------------------------------
 # Widgets
