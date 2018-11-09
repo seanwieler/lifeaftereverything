@@ -18,6 +18,7 @@
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Rock+Salt" rel="stylesheet">
+	<script src='https://www.google.com/recaptcha/api.js'></script>
 
 	<?php wp_head(); ?>
 </head>

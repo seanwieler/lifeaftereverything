@@ -53,7 +53,7 @@
 
 body {
 	margin: 0;
-	font-family: "roboto", sans-serif;
+	font-family: @font-body, sans-serif;
 }
 
 /**
@@ -99,6 +99,9 @@ pre {
 
 a {
 	background-color: transparent;
+	&:hover {
+	color: @brand-yellow !important;
+	}
 }
 
 /**
