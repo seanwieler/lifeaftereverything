@@ -78,7 +78,7 @@ html {
  */
 body {
   margin: 0;
-  font-family: 'Open Sans', sans-serif, sans-serif;
+  font-family: 'Special Elite', cursive, sans-serif;
 }
 /**
  * Correct the font size and margin on `h1` elements within `section` and
@@ -370,7 +370,7 @@ input,
 select,
 optgroup,
 textarea {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Special Elite', cursive;
   font-size: 16px;
   font-size: 1rem;
   line-height: 1.5;
@@ -392,7 +392,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Special Elite', cursive;
   text-transform: uppercase;
 }
 p {
