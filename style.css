@@ -78,7 +78,7 @@ html {
  */
 body {
   margin: 0;
-  font-family: 'Special Elite', cursive, sans-serif;
+  font-family: 'Noto Serif', serif, sans-serif;
 }
 /**
  * Correct the font size and margin on `h1` elements within `section` and
@@ -370,7 +370,7 @@ input,
 select,
 optgroup,
 textarea {
-  font-family: 'Special Elite', cursive;
+  font-family: 'Noto Serif', serif;
   font-size: 16px;
   font-size: 1rem;
   line-height: 1.5;
@@ -384,7 +384,7 @@ h6 {
   clear: both;
 }
 h1 {
-  font-family: 'Rock Salt', cursive;
+  font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
 }
 h2,
@@ -392,7 +392,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Special Elite', cursive;
+  font-family: 'Noto Sans', sans-serif;
   text-transform: uppercase;
 }
 p {
@@ -737,7 +737,7 @@ i.fa.fa-pinterest-p.fa-4x.fa-border:hover {
 }
 aside#recent-posts-2 {
   width: 100%;
-  color: #ffffff;
+  color: #fff;
 }
 aside#recent-posts-2 li:hover {
   color: #ffcc00;
@@ -946,7 +946,7 @@ textarea {
   width: 100%;
 }
 .single-post {
-  color: #000;
+  color: #393f4d;
 }
 article.type-post {
   margin: 0 20% 0 20%;
@@ -994,7 +994,7 @@ footer.entry-footer {
   padding: 10px;
 }
 .site-info {
-  color: #ffffff;
+  color: #fff;
 }
 .site-info a {
   color: #8e8e8e;
